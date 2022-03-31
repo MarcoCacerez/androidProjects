@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">Chetumal\'s coffee</string>
+    <string name="americano">Americano</string>
+    <string name="descafenaido">Descafeinado</string>
+    <string name="expreso">Espresso</string>
+    <string name="cafe">Café</string>
+    <string name="azucar">Azúcar</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="ordenar">Ordenar</string>
+    <!-- Valores nuevos  -->
+    <string name="coldbrew">Cold Brew</string>
+    <string name="tea">Té</string>
+    <string name="total">Cantidad total: %s</string>
+    <string name="ingrese_la_cantidad">Ingrese la cantidad</string>
+    <string name="elegir">Seleccione el tamaño</string>
+
+    <!-- Coffee sizes -->
+    <string name="grande">Grande</string>
+    <string name="tall">Tall</string>
+    <string name="venti">Venti</string>
+    <string name="trenta">Trenta</string>
+    <string name="milk">Leche</string>
+    <string name="almondMilk">Leche de Almendra</string>
+    <string name="noMilk">Ninguna</string>
+</resources>
